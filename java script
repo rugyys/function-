@@ -1,0 +1,4 @@
+function primeiraFuncao (num1, num2)
+{
+    var s = num1 + num2
+};
